@@ -1,0 +1,15 @@
+html{
+    background-color: whitesmoke
+}
+.election-2024{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+#image{
+    border: 10px solid black;
+    width: 100%;
+}
